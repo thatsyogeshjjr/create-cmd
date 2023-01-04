@@ -1,12 +1,5 @@
 #!./env/Scripts/python.exe
 
-
-'''
-TODO: print cwd after chaning directory
-
-'''
-
-
 from selenium import webdriver
 from dotenv import load_dotenv
 import sys
